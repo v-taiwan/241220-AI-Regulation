@@ -1,5 +1,5 @@
-# vTaiwan Deliberation Event #2: AI Regulation Data  
-# vTaiwan 議題小聚 #2：人工智慧規範數據
+# vTaiwan Deliberation Event #2: AI Regulation
+# vTaiwan 議題小聚 #2：人工智慧規範
 
 ## Overview / 概述
 
@@ -15,20 +15,20 @@ The event facilitated public discussions about AI governance, addressing legal a
 
 ---
 
-## Methodology / 方法論
+## vTaiwan Methodology / 方法論
 
 **vTaiwan leveraged Polis and Mentimeter to create an iterative, data-driven deliberation process:**
 
 1. **Polis Analysis**: Public opinions were collected and clustered using **Principal Component Analysis (PCA)**, a method that highlights areas of consensus and division within public sentiment.  
 2. **Informed Deliberation**: The identified clusters were used to shape deliberative agendas, ensuring key issues and cleavages were addressed during face-to-face workshops.  
-3. **Real-Time Voting with Mentimeter**: Spectrum-based pre- and post-deliberation voting visualised shifts in individual preferences, encouraging participants to reflect on and adapt their viewpoints.  
+3. **"Read the Room" with Mentimeter**: Spectrum-based pre- and post-deliberation voting visualised shifts in individual preferences, encouraging participants to reflect on and adapt their viewpoints.  
 4. **Transparent Feedback Loop**: By visualising real-time opinion changes and fostering open discussions, the process created a deliberative environment where opinion shifts were encouraged and explored collaboratively.
 
 **vTaiwan 利用 Polis 與 Mentimeter 創建了一個數據驅動的循環式討論流程：**
 
 1. **Polis 分析**：通過 **主成分分析 (PCA)** 聚合並分類公眾意見，突顯意見的共識與分歧點。  
 2. **知情式討論**：基於 Polis 聚合結果，制定討論議程，確保關鍵議題與意見裂縫在面對面工作坊中得到深入探討。  
-3. **Mentimeter 即時投票**：以光譜形式的投票記錄參與者在討論前後的意見變化，鼓勵參與者反思與調整觀點，創造了一個鼓勵意見轉變的協作性討論環境。
+3. **Read the Room遊戲＋即時投票**：以光譜形式的投票記錄參與者在討論前後的意見變化，鼓勵參與者反思與調整觀點，創造了一個鼓勵意見轉變的協作性討論環境。
 
 This combination of **quantitative insights** (from PCA) and **qualitative dialogue** ensures that public sentiment is captured and addressed holistically, balancing individual perspectives with collective decision-making.
 
@@ -76,6 +76,6 @@ This combination of **quantitative insights** (from PCA) and **qualitative dialo
 
 ## Licensing / 授權條款
 
-This project is shared under a **CC0 License** to ensure openness and accessibility. Refer to the LICENSE file for details.  
-本項目採用 **CC0 授權條款**，確保透明與開放，詳見 LICENSE 檔案。
+This project is shared under a **CC0 License** to ensure openness and accessibility.
+本項目採用 **CC0 授權條款**，確保透明與開放。
 
