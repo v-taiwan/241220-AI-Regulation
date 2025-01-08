@@ -23,10 +23,12 @@ The event facilitated public discussions about AI governance, addressing legal a
 
 1. **Polis Analysis**: Public opinions were collected and clustered using [Polis](https://pol.is/) with PCA analysis, a method allows vTaiwan to effectively highlights areas of consensus and division within public sentiment.  
 2. **Informed Deliberation**: The identified clusters were used to create a decision tree, ensuring key issues and cleavages were addressed during face-to-face workshops.  
-3. **"Read the Room" with Mentimeter**: Spectrum-based pre- and post-deliberation voting visualised shifts in individual preferences, encouraging participants to reflect on and adapt their viewpoints.  
+3. **"Read the Room" Game with Mentimeter**: Spectrum-based pre- and post-deliberation voting visualised shifts in individual preferences, encouraging participants to reflect on and adapt their viewpoints.  
 4. **Transparent Feedback Loop**: By visualising real-time opinion changes and fostering open discussions, the process created a deliberative environment where opinion shifts were encouraged and explored collaboratively.
 
 **vTaiwan 利用 Polis 與 Mentimeter 創建了一個數據驅動的循環式討論流程：**
+
+![image](https://github.com/user-attachments/assets/b1be2bc5-898c-4ab2-966a-4e44f69c6b1f)
 
 1. **Polis 分析**：通過 Polis的主成分分析聚合並分類公眾意見，然後由vTaiwan團隊去分析不同意見群體的主要分歧點，有效快速突顯意見的共識與分歧點。  
 2. **知情式討論**：基於 Polis 聚合結果，制定討論議程，以決策樹狀圖的分歧點做討論方向，確保關鍵議題與意見裂縫在面對面工作坊中得到深入探討。  
