@@ -1,4 +1,5 @@
 # vTaiwan Roundtable #2: AI Regulation / 議題小聚 #2：人工智慧規範
+![image](https://github.com/user-attachments/assets/82963ef1-f819-4c28-a6a9-12a3e8c3e128)
 
 ## Overview / 概述
 
@@ -59,10 +60,17 @@ This combination of **quantitative insights** (from PCA) and **qualitative dialo
 
 ## Repository Contents / 儲存庫內容
 
-- **`data/`**: Mentimeter outputs and Polis cluster data. / Mentimeter 輸出與 Polis 聚合數據  
-- **`summary/`**: Reports and key insights derived from the data. / 數據分析報告與關鍵見解  
-- **`scripts/`**: Code for data analysis and visualisation. / 數據分析與視覺化腳本  
-- **`docs/`**: Additional resources and references. / 相關資源與參考資料  
+- **`mentimeter_voter.csv`**: Contains voting results and participant comments from the face-to-face deliberation.  
+  **記錄了面對面討論中投票結果和參與者評論。**  
+
+- **`mentimeter_slides.pdf`**: Presentation slides with aggregated results from the deliberation.  
+  **包含討論結果彙總的簡報檔案。**  
+
+- **`deliberation_change.csv`**: Tracks shifts in opinion spectrum before and after deliberation on specific statements.  
+  **記錄了特定觀點在討論前後意見光譜的變化。**  
+
+- **`attitude.csv`**: Captures holistic attitudes towards AI regulation before and after the discussion.  
+  **記錄了參與者在整個討論過程中對 AI 規範的整體態度變化。**
 
 ---
 
