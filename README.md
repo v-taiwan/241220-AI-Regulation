@@ -19,15 +19,17 @@ The event facilitated public discussions about AI governance, addressing legal a
 
 **vTaiwan leveraged Polis and Mentimeter to create an iterative, data-driven deliberation process:**
 
-1. **Polis Analysis**: Public opinions were collected and clustered using **Principal Component Analysis (PCA)**, a method that highlights areas of consensus and division within public sentiment.  
-2. **Informed Deliberation**: The identified clusters were used to shape deliberative agendas, ensuring key issues and cleavages were addressed during face-to-face workshops.  
+![image](https://github.com/user-attachments/assets/777217d6-f9f4-4cef-9e98-b53cf8573761)
+
+1. **Polis Analysis**: Public opinions were collected and clustered using [Polis](https://pol.is/) with PCA analysis, a method allows vTaiwan to effectively highlights areas of consensus and division within public sentiment.  
+2. **Informed Deliberation**: The identified clusters were used to create a decision tree, ensuring key issues and cleavages were addressed during face-to-face workshops.  
 3. **"Read the Room" with Mentimeter**: Spectrum-based pre- and post-deliberation voting visualised shifts in individual preferences, encouraging participants to reflect on and adapt their viewpoints.  
 4. **Transparent Feedback Loop**: By visualising real-time opinion changes and fostering open discussions, the process created a deliberative environment where opinion shifts were encouraged and explored collaboratively.
 
 **vTaiwan 利用 Polis 與 Mentimeter 創建了一個數據驅動的循環式討論流程：**
 
-1. **Polis 分析**：通過 **主成分分析 (PCA)** 聚合並分類公眾意見，突顯意見的共識與分歧點。  
-2. **知情式討論**：基於 Polis 聚合結果，制定討論議程，確保關鍵議題與意見裂縫在面對面工作坊中得到深入探討。  
+1. **Polis 分析**：通過 Polis的主成分分析聚合並分類公眾意見，然後由vTaiwan團隊去分析不同意見群體的主要分歧點，有效快速突顯意見的共識與分歧點。  
+2. **知情式討論**：基於 Polis 聚合結果，制定討論議程，以決策樹狀圖的分歧點做討論方向，確保關鍵議題與意見裂縫在面對面工作坊中得到深入探討。  
 3. **Read the Room遊戲＋即時投票**：以光譜形式的投票記錄參與者在討論前後的意見變化，鼓勵參與者反思與調整觀點，創造了一個鼓勵意見轉變的協作性討論環境。
 
 This combination of **quantitative insights** (from PCA) and **qualitative dialogue** ensures that public sentiment is captured and addressed holistically, balancing individual perspectives with collective decision-making.
