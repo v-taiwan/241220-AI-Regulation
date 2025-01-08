@@ -1,4 +1,4 @@
-# vTaiwan Roundtable #2: AI Regulation / vTaiwan 議題小聚 #2：人工智慧規範
+# vTaiwan Roundtable #2: AI Regulation / 議題小聚 #2：人工智慧規範
 
 ## Overview / 概述
 
