@@ -15,6 +15,28 @@ The event facilitated public discussions about AI governance, addressing legal a
 
 ---
 
+## Event Details / 活動詳情
+
+- **Event Name / 活動名稱:** vTaiwan 議題小聚 #2 w/ TWNIC: 台灣的人工智慧規範應該考慮什麼？  
+- **Date / 日期:** 2024/12/20 (Friday / 周五)  
+- **Time / 時間:** 18:30 ~ 21:30 (+0800)  
+- **Venue / 地點:** 財團法人台灣網路資訊中心 (TWNIC)  
+  105 台北市松山區八德路四段 123 號 3 樓  
+- **Event Link / 活動連結:** [https://vtaiwan.kktix.cc/events/vtaiwanmeetup-2](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-2)  
+
+---
+
+## Schedule / 活動流程
+
+- **18:30–19:00:** Welcome and Introductions / 歡迎與介紹  
+- **19:00–19:50:** Deliberation (in-person and through digital platforms) / 討論（現場及數位平台）  
+- **19:50–20:05:** Break (15 mins) / 休息（15 分鐘）  
+- **20:05–20:15:** Response & Clarification / 回應與澄清  
+- **20:15–20:45:** Deliberation (in-person and through digital platforms) / 討論（現場及數位平台）  
+- **20:45–21:30:** Wrap-up / 總結  
+
+---
+
 ## vTaiwan Methodology / 方法論
 
 **vTaiwan leveraged Polis and Mentimeter to create an iterative, data-driven deliberation process:**
@@ -40,25 +62,11 @@ This combination of **quantitative insights** (from PCA) and **qualitative dialo
 
 ---
 
-## Event Details / 活動詳情
+## Preliminary Result / 目前部分結果
 
-- **Event Name / 活動名稱:** vTaiwan 議題小聚 #2 w/ TWNIC: 台灣的人工智慧規範應該考慮什麼？  
-- **Date / 日期:** 2024/12/20 (Friday / 周五)  
-- **Time / 時間:** 18:30 ~ 21:30 (+0800)  
-- **Venue / 地點:** 財團法人台灣網路資訊中心 (TWNIC)  
-  105 台北市松山區八德路四段 123 號 3 樓  
-- **Event Link / 活動連結:** [https://vtaiwan.kktix.cc/events/vtaiwanmeetup-2](https://vtaiwan.kktix.cc/events/vtaiwanmeetup-2)  
+vTaiwan團隊正在分析以及編寫報告當中，之後會持續新增完整報告檔案於此Repo。
 
----
-
-## Schedule / 活動流程
-
-- **18:30–19:00:** Welcome and Introductions / 歡迎與介紹  
-- **19:00–19:50:** Deliberation (in-person and through digital platforms) / 討論（現場及數位平台）  
-- **19:50–20:05:** Break (15 mins) / 休息（15 分鐘）  
-- **20:05–20:15:** Response & Clarification / 回應與澄清  
-- **20:15–20:45:** Deliberation (in-person and through digital platforms) / 討論（現場及數位平台）  
-- **20:45–21:30:** Wrap-up / 總結  
+![image](https://github.com/user-attachments/assets/0d6977c9-b3c8-40e8-b8a8-637b981cbc24)
 
 ---
 
